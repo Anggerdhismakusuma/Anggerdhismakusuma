@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Anggerdhismakusuma
-- 👀 I’m interested in Web Programming
+- 👋 Hi, I’m Angger !!
+- 👀 I’m interested in Fullstack Web Programming, Networking, and Developing an Apps 
 - 🌱 I’m currently learning OOP (java), C, and Python
 - 💞️ I’m looking to collaborate on Learning Together
 - 📫 How to reach me kangger97@gmail.com
